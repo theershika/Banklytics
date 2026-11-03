@@ -13,3 +13,4 @@ reportlab==4.4.7
 email-validator==2.3.0
 pytest==9.0.2
 SQLAlchemy==2.0.46
+gunicorn>=23.0.0
